@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pghki6obu I am 32M I am a c Dev.
+- 👋 Hi, I’m @pghki6obu I am 32M I am a C++ Dev.
 - I have never had to make a github account for any other reason as any multitude of many users do, I'm sure. Get scripts as examples, disect known working programs and emulate.
 - Well, I have finally decided to make an account to contribute, learn more, and grow my community.
 - 
